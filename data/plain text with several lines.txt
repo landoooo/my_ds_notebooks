@@ -1,0 +1,5 @@
+The Title
+
+This is just a plain text file with several lines. The existence of this file is no other but practice reading its different lines.
+This is a second line, just in case.
+Here we go for a third one.
