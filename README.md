@@ -9,3 +9,5 @@ Welcome to my collection of data science notebooks! This repository contains a v
 - **Statistical Methods**: Implementation of statistical techniques in Python.
   
 Feel free to explore, use, and contribute!
+
+Please note this repo hasnt been refactored, so the structure and contents could be a bit messy ^^'
