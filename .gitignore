@@ -169,3 +169,19 @@ eda/filename.pickle
 /HuggingFace/models
 /100 applied/010 Bibliotheque Primaire Saint Michel/Barcodes
 010 exploratory data analysis/filename.pickle
+HuggingFace/data/imdb_train.arrow
+HuggingFace/data/imdb_test.arrow
+HuggingFace/data/english.arrow
+HuggingFace/data/common_language.arrow
+HuggingFace/audios/output_file.wav
+data/playground-series-s4e10/train.csv
+data/playground-series-s4e10/test.csv
+data/playground-series-s4e10/sample_submission.csv
+data/new-york-city-taxi-fare-prediction/train.csv
+data/new-york-city-taxi-fare-prediction/test.csv
+data/new-york-city-taxi-fare-prediction/sample_submission.csv
+data/new-york-city-taxi-fare-prediction/GCP-Coupons-Instructions.rtf
+data/murmur__201101051104.wav
+100 applied/Spotify/Messing with Spotify.ipynb
+100 applied/libros.csv
+060 MLOps/mydb.sqlite
